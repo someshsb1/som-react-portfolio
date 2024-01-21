@@ -35,7 +35,7 @@ const ProjectDataCards = [
         text: "The design and development of Wi-Fi connectivity based on home security surveillance camera using Raspberry Pi and an IoT Module reducing continuous human monitoring and controlling with enhanced performance and effective results.",
         view: "http://ijarcs.info/index.php/Ijarcs/article/view/5585",
         source: "http://ijarcs.info/index.php/Ijarcs/article/view/5585"
-    }
+    },
     {
         imgsrc: project5,
         title: "My Portfolio - ReactJS",
