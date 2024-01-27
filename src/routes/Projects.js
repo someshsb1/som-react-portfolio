@@ -11,6 +11,7 @@ const Projects = () => {
       <Navbar />
       <HeadImg1 heading="Projects" text="Showcasing My Creations: A Glimpse into My Diverse Projects"/>
       <Project />
+      <Footer />
     </div>
   )
 }

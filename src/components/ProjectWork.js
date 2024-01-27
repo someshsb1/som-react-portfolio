@@ -26,7 +26,7 @@ const ProjectDataCards = [
         imgsrc: project3,
         title: "Gamificaton WebApp for SAP",
         text: "The gamification web application (GWA) aims to improve user motivation and engagement while using SAP GBI case studies.",
-        view: "https://github.com/someshsb1/project12-gamification-app",
+        view: "https://gamification.somee.com/",
         source: "https://github.com/someshsb1/project12-gamification-app"
     },
     {
