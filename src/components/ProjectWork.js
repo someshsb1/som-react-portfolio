@@ -5,6 +5,7 @@ import project2 from "../assets/3.jpg"
 import project3 from "../assets/4.jpg"
 import project4 from "../assets/5.jpg"
 import project5 from "../assets/9.jpg"
+import project10 from "../assets/10.jpg"
 
 
 const ProjectDataCards = [
@@ -42,7 +43,14 @@ const ProjectDataCards = [
         text: "Explore my journey, skills, and projects in this dynamic portfolio built with ReactJS. This interactive web application not only showcases my work but also provides a seamless and engaging user experience..",
         view: "https://someshbalani-portfolio.netlify.app/",
         source: "https://github.com/someshsb1/som-react-portfolio"
+    },
+    {
+        imgsrc: project10,
+        title: "A Bridge for Lenny",
+        text: "Leonard Paul 'Lenny' Zakim[1] (November 17, 1953 – December 2, 1999) was a Jewish American religious and civil rights leader in Boston. Zakim died in 1999 after a five-year battle with bone-marrow cancer. Boston's Leonard P. Zakim Bunker Hill Bridge was named in his honor.",
+        view: "https://som-infographic-zakim-bridge.my.canva.site/about",
     }
+
 ];
 
 export default ProjectDataCards
