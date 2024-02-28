@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.796cc1e0.css",
+    "main.js": "/react-gh-pages/static/js/main.6b5ca2bf.js",
+    "static/media/2.jpg": "/react-gh-pages/static/media/2.583ee2830894627d6995.jpg",
+    "static/media/9.jpg": "/react-gh-pages/static/media/9.4b30ce1fad6f6d44444d.jpg",
+    "static/media/10.jpg": "/react-gh-pages/static/media/10.babe289ea8d6a7324f95.jpg",
+    "static/media/8.jpg": "/react-gh-pages/static/media/8.e38b85f58b185b0f477f.jpg",
+    "static/media/3.jpg": "/react-gh-pages/static/media/3.9c091a3cf07b180a5034.jpg",
+    "static/media/4.jpg": "/react-gh-pages/static/media/4.639c02c986d744ca6176.jpg",
+    "static/media/5.jpg": "/react-gh-pages/static/media/5.c0c07f76c830f241c38e.jpg",
+    "static/media/7.jpg": "/react-gh-pages/static/media/7.d2805b13838250a34a93.jpg",
+    "static/media/1.jpg": "/react-gh-pages/static/media/1.1b0ceca96d51c77c5108.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.796cc1e0.css.map": "/react-gh-pages/static/css/main.796cc1e0.css.map",
+    "main.6b5ca2bf.js.map": "/react-gh-pages/static/js/main.6b5ca2bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.796cc1e0.css",
+    "static/js/main.6b5ca2bf.js"
+  ]
+}
